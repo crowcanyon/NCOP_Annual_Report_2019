@@ -1,0 +1,1 @@
+pandoc -s /Volumes/USERS/Research/NCOP/NCOP\ Admin/Annual\ Reports/2019/Drafts/NCOP_Annual_Report_2019_draft3.docx --extract-media . -t markdown -o NCOP_Annual_Report_2019_draft3.md

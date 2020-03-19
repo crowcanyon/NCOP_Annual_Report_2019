@@ -1,0 +1,56 @@
+bookdown::gitbook:
+  dev: svglite
+  includes:
+    in_header: header.html
+    after_body: after_body.html
+  css: css/style.css
+  split_by: section
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li style="font-size: 125%;font-weight: bold;">
+        <a href="http://www.crowcanyon.org/" target="_blank">
+        <img src="./images/CCAC_logo.svg" style="width: 250px;"/>
+        </a>
+        <a href="./index.html">NCOP 2019 Annual Report</a>
+        </li>
+      after: |
+        <li style="font-size: 100%;font-weight: bold;">
+        <a href="https://www.historycolorado.org/state-historical-fund" target="_blank">Funded in part by the<br><br>
+        <div style="text-align: center;">
+        <img src="./images/HistoryCO.png" style="width: 250px;"/>
+        </div>
+        </a>
+        </li>
+        <hr>
+        <li style="font-size: 100%;font-weight: bold;">
+        <a href="https://bookdown.org" target="_blank">Published with<br>
+        <div style="text-align: center;">
+        <img src="./images/bookdown.png" style="width: 75px;"/>
+        </div>
+        </a>
+        </li>
+    download: ["pdf"]
+    sharing:
+      github: yes
+      facebook: yes
+      all: no
+bookdown::pdf_book:
+  includes:
+    in_header: latex/preamble.tex
+    before_body: latex/before_body.tex
+    after_body: latex/after_body.tex
+  keep_tex: yes
+  dev: "cairo_pdf"
+  latex_engine: xelatex
+  citation_package: natbib
+  template: null
+  pandoc_args: --top-level-division=chapter
+  toc_depth: 3
+  toc_unnumbered: yes
+  toc_appendix: yes
+  quote_footer: ["\\VA{", "}{}"]
+bookdown::epub_book:
+  dev: svglite
+  stylesheet: css/style.css
