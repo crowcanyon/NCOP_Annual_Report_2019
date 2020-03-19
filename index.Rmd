@@ -44,6 +44,8 @@ The Northern Chaco Outliers Project funded in part by a History Colorado State H
 <a href="http://www.crowcanyon.org/" target="_blank"><img src="./images/CCAC_logo.svg" style="height: 70px; padding: 0px 20px 0px 20px;"/></a>
 
 <a href="https://www.historycolorado.org/state-historical-fund" target="_blank"><img src="./images/HistoryCO.png" style="height: 100px;"/></a>
+
+<a href="https://earthwatch.org" target="_blank"><img src="./images/earthwatch.png" style="height: 100px;"/></a>
 </div>
 
 <br>

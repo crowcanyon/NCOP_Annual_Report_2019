@@ -17,9 +17,17 @@ bookdown::gitbook:
         </li>
       after: |
         <li style="font-size: 100%;font-weight: bold;">
-        <a href="https://www.historycolorado.org/state-historical-fund" target="_blank">Funded in part by the<br><br>
+        Funded in part by<br><br>
+        <a href="https://www.historycolorado.org/state-historical-fund" target="_blank">
         <div style="text-align: center;">
         <img src="./images/HistoryCO.png" style="width: 250px;"/>
+        </div>
+        </a>
+        </li>
+        <li style="font-size: 100%;font-weight: bold;">
+        <a href="https://earthwatch.org" target="_blank">
+        <div style="text-align: center;">
+        <img src="./images/earthwatch.png" style="width: 250px;"/>
         </div>
         </a>
         </li>
