@@ -105,28 +105,40 @@ Project Area Location and Ownership
 -----------------------------------
 
 The Lakeview Group is located in Montezuma County, Colorado,
-east-northeast of the modern-day town of Cortez (Figure 1). The sites in
+east-northeast of the modern-day town of Cortez (Figure \@ref(fig:image1)). The sites in
 this group are in the heart of the Mesa Verde archaeological region,
 north of the Mesa Verde escarpment and near the confluence of Simon Draw
 and McElmo Creek; Stinking Springs is located southeast of the Lakeview
 Group. The majority of the Haynie site is located on a 5-acre property
 recently acquired by The Archaeological Conservancy from the Haynie
-Ranch, LLC (Figure 2). The easternmost portion of the Haynie site is on
+Ranch, LLC (Figure \@ref(fig:image2)). The easternmost portion of the Haynie site is on
 private land not accessible to Crow Canyon. Bruce Bradly owns Wallace
 Ruin and Greenstone Pueblo, a small domestic habitation adjacent to
 Wallace. The Ida Jean site, including the great kiva, is on private land
-not accessible to Crow Canyon.[]{#_Toc28268335 .anchor}
+not accessible to Crow Canyon.
+
+```{r image1, fig.cap="Map showing location of Haynie site, Ida Jean site, Wallace Ruin, and other Chaco--period great houses within southwestern Colorado.", fig.align='center'}
+knitr::include_graphics("media/image1.png")
+```
+
+```{r image2, fig.cap="Map showing the East and West Great Houses at the Haynie site, and the boundary of The Archaeological Conservancy property. Selected archaeological features, excavation areas (including some prior to Crow Canyon involvement in the site), and modern buildings are shown.", fig.align='center'}
+knitr::include_graphics("media/image2.png")
+```
 
 Environmental Setting
 ---------------------
 
 The NCOP study area includes an environment defined by the surrounding
-drainages and by current agricultural use of the land. Figure 3 shows
+drainages and by current agricultural use of the land. Figure \@ref(fig:image3) shows
 the locations of sites in the Lakeview Group. The Haynie site is located
 at 1,911 m (6,270 ft.) and sits on a small knoll to the north of, and
 just above, a shallow, broad valley within Simon Draw. The head of Simon
 Draw is located about 6 km north of the Haynie site. Simon Draw empties
 into McElmo Creek 4 km southwest of the Haynie site.
+
+```{r image3, fig.cap="Google Earth satellite image showing landscape of the Lakeview Group, with locations of Haynie site, Wallace Ruin, and Ida Jean site.", fig.align='center'}
+knitr::include_graphics("media/image3.png")
+```
 
 The soils of the valley bottom south of the Haynie and Ida Jean sites,
 and upon which Wallace Ruin sits, are predominantly Gladel-Pulpit
@@ -140,7 +152,7 @@ saltbush, and some riparian vegetation that includes cottonwood, willow,
 cattails, and sedges. The Chaco-style great houses and the midden
 deposits at the Haynie site are covered mostly with sagebrush, saltbush,
 and grasses. Sandstone ridges flank and rise above the valley floor, and
-these ridges support pinyon-juniper wo[]{#_Toc28268336 .anchor}odland.
+these ridges support pinyon-juniper woodland.
 
 Previous Archaeological Investigation at the Lakeview Group
 -----------------------------------------------------------
@@ -252,7 +264,7 @@ structure at the Haynie site. Next, we describe our human remains policy
 and provide a brief overview of osteological analyses conducted in 2019.
 Finally, we summarize our research and outreach efforts. Appendix A
 provides a list of permanent staff, seasonal staff, and interns who
-assisted with the NCOP during 2019.[]{#_Toc28268339 .anchor}
+assisted with the NCOP during 2019.
 
 Excavations at the Haynie Site
 ==============================
@@ -290,8 +302,12 @@ excavations that were less concretely defined than grid units---these
 are referred to as "Segments" and assigned a number (e.g. Segment 5). We
 typically use segments to expose partially buried walls or to extend a
 grid unit in order to capture the corner of a room or structure. Figure
-5 shows the location of segments excavated within Architectural Block
+\@ref(fig:image4) shows the location of segments excavated within Architectural Block
 100 of the Haynie site.
+
+```{r image4, fig.cap="Map showing location of segments in Architectural Block 100 of the Haynie site.", fig.align='center'}
+knitr::include_graphics("media/image4.png")
+```
 
 During Haynie site excavations, we often place several grid units and/or
 segments adjacent to one another. Contiguous grid units and segments are
@@ -302,9 +318,13 @@ specific archaeological features identified through remote sensing,
 pedestrian survey, or archival work (for example, units of this size
 were used to seek remains of mechanically-disturbed areas). We refer to
 clusters of Excavation Units as "Excavation Areas" and we assign each
-Excavation Area a letter (e.g. Area A, Area B). Figure 4 shows the
+Excavation Area a letter (e.g. Area A, Area B). Figure \@ref(fig:image5) shows the
 location of Excavation Areas within Architectural Block 100 of the
 Haynie site.
+
+```{r image5, fig.cap="Map showing the location of Excavation Areas in Architectural Block 100 of the Haynie site.", fig.align='center'}
+knitr::include_graphics("media/image5.png")
+```
 
 Within Excavation Units, we excavate strata by natural layers,
 subdividing strata into 10 cm levels. Archaeological contexts that
@@ -339,20 +359,24 @@ Area A
 ------
 
 In 2017, Crow Canyon began work on a group of Excavation Units in Area A
-(Figure 4, Table 1) west of the modern house (Simon et al. 2017). Remote
+(Figure \@ref(fig:image5), Table 1) west of the modern house (Simon et al. 2017). Remote
 sensing identified anomalies thought to be surface rooms in that area
 (Charles 2017). Excavation revealed several superimposed rooms,
-including Structure 186 and Structure 193 (Figure 6), and work on these
+including Structure 186 and Structure 193 (Figure \@ref(fig:image6)), and work on these
 two structures continued through 2017-2018 (Simon et al. 2017; Fladd et
 al. 2018). An additional cluster of anomalies to the north of these two
 structures led Crow Canyon to begin work on a 4-x-8-m excavation in 2018
 (Table 1). During the 2019 field season, work continued on 4x8 424N 378E
-and we discovered Structure 1047 (Figure 6). We created a 2-x-1-m unit
+and we discovered Structure 1047 (Figure \@ref(fig:image6)). We created a 2-x-1-m unit
 (Table 1) to clarify the relationship between the south end of Structure
 1047 and deposits west of Structures 186 and 193. The only additional
 work conducted on Structure 186 and Structure 193 was the excavation of
 Segment 10, a shallow trench that followed the south wall of Structure
-186 and sought to define the boundaries of the room (Figure 5).
+186 and sought to define the boundaries of the room (Figure \@ref(fig:image5)).
+
+```{r image6, fig.cap="Location of numbered structures in Architectural Block 100 of the Haynie site. Locations of pit structures are dashed in, and should be considered approximate.", fig.align='center'}
+knitr::include_graphics("media/image6.png")
+```
 
 ### Arbitrary 179 {#arbitrary-179 .Heading3}
 
@@ -897,6 +921,8 @@ the early Pueblo II period. We excavated a test window beneath the floor
 surface and it revealed that there are additional cultural deposits
 below Structure 1042.
 
+![Artifacts on the floor (SR00-01) in the north half of Structure 1042.](./media/image8.jpeg)
+
 ### Excavations in Area C4 {#excavations-in-area-c4 .Heading3}
 
 This excavation area is located due west of the northwestern corner of
@@ -1034,6 +1060,23 @@ on upright slabs and discolorations of the soil, but we did not excavate
 these features in 2019 and have not yet assigned a feature number to
 them. Pottery observed during excavation suggests Structure 1016 dates
 to the middle or late Pueblo II period.
+
+![Photo showing wall segment or structure corner beneath floor of Structure 1010.](./media/image7.jpeg)
+
+
+
+![In progress excavation photo showing Structure 1016 wall alignment.](./media/image9.jpeg)
+
+![Burned roof beam and well-preserved roofing material from Structure 1024.](./media/image10.jpeg)
+
+![Final excavation photo of the floor surface in Structure 1024, showing northwest posthole, sand-filled pits, portion of complex sipapu, and paho marks.](./media/image11.jpeg)
+
+![Photo showing extent of burned bulrush/cattail open-twined mat on floor of Structure 1024. Beams from roof fall are visible at the top of the image in the Excavation Unit profile face. The artifacts north of the mat are a mano and two sherds.](./media/image12.jpeg)
+
+![Detail of burned open-twined mat. Arrow points to location of one crosswise row of weft thread.](./media/image13.jpeg)
+
+![Lower end of mat, warp ends shown vertically, showing cut ends of flattened stems.](./media/image14.jpeg)
+
 
 #### Nonstructure 1015
 
@@ -1508,7 +1551,7 @@ remains. Usually, this involves a bioarchaeologist (Kathy Mowrer)
 completing an in-situ analysis of the visible remains. We discovered
 isolated remains in 12 units during the 2019 season and identified one
 formal burial, which we documented in situ and re-covered with
-sediment.[]{#_Toc28268406 .anchor}Curation
+sediment.Curation
 
 Crow Canyon entered into an agreement with the Canyons of the Ancients
 Visitor Center and Museum (formerly the Anasazi Heritage Center),
@@ -1516,7 +1559,7 @@ Dolores, Colorado, for the curation of collected materials from the
 Haynie site. The Canyons of the Ancients Visitor Center and Museum will
 take possession of these materials after the completion of fieldwork and
 analyses as stipulated in the research design for the NCOP (Ryan
-2016).[]{#_Toc28268407 .anchor}
+2016).
 
 Research and Outreach
 =====================
@@ -1753,106 +1796,18 @@ and future generations by making the human past accessible and relevant
 through archaeological research, experiential education, and Native
 American knowledge.
 
-![Haynie in SW Colorado](./media/image3.png){width="6.0in"
-height="8.4in"}[]{#_Ref27638545 .anchor}
 
-Figure . Map showing location of Haynie site, Ida Jean site, Wallace
-Ruin, and other Chaco--period great houses within southwestern Colorado.
 
-![](./media/image4.png)
 
-[]{#_Ref27638910 .anchor}Figure . Map showing the East and West Great
-Houses at the Haynie site, and the boundary of The Archaeological
-Conservancy property. Selected archaeological features, excavation areas
-(including some prior to Crow Canyon involvement in the site), and
-modern buildings are shown.
 
-![Lakeview Group](./media/image5.png){width="5.746527777777778in"
-height="4.418055555555555in"}
 
-[]{#_Ref28260902 .anchor}Figure . Google Earth satellite image showing
-landscape of the Lakeview Group, with locations of Haynie site, Wallace
-Ruin, and Ida Jean site.
 
-![Haynie Block 100 Excavation
-Areas](./media/image6.png){width="5.790972222222222in"
-height="8.104166666666666in"}
 
-[]{#_Ref27572107 .anchor}Figure . Map showing the location of Excavation
-Areas in Architectural Block 100 of the Haynie site.
 
-![Haynie Block 100 Segments
-Labeled](./media/image7.png){width="5.761111111111111in"
-height="8.074305555555556in"}
 
-[]{#_Ref27573303 .anchor}Figure . Map showing location of segments in
-Architectural Block 100 of the Haynie site.
 
-![Haynie Block 100 Structures](./media/image8.png){width="5.80625in"
-height="8.104166666666666in"}
 
-[]{#_Ref27575018 .anchor}Figure . Location of numbered structures in
-Architectural Block 100 of the Haynie site. Locations of pit structures
-are dashed in, and should be considered approximate.
-
-![photo of walls below floor of STR
-1010](./media/image9.jpeg){width="3.1555555555555554in"
-height="4.143055555555556in"}
-
-[]{#_Toc29378645 .anchor}Figure . Photo showing wall segment or
-structure corner beneath floor of Structure 1010.
-
-![photo of floor of STR
-1042](./media/image10.jpeg){width="5.220930664916885in"
-height="3.7249759405074365in"}
-
-[]{#_Ref27639721 .anchor}Figure . Artifacts on the floor (SR00-01) in
-the north half of Structure 1042.
-
-![photo of STR 1016 midway through
-excavation](./media/image11.jpeg){width="5.065277777777778in"
-height="3.3506944444444446in"}
-
-[]{#_Ref27642823 .anchor}Figure . In progress excavation photo showing
-Structure 1016 wall alignment.
-
-![photo of roof material from STR 1024 in
-profile](./media/image12.jpeg){width="5.014583333333333in"
-height="3.328472222222222in"}
-
-[]{#_Ref27643014 .anchor}Figure . Burned roof beam and well-preserved
-roofing material from Structure 1024.
-
-![Photo of exc floor of STR
-1024](./media/image13.jpeg){width="4.627906824146982in"
-height="4.101231408573928in"}
-
-[]{#_Ref27639986 .anchor}Figure . Final excavation photo of the floor
-surface in Structure 1024, showing northwest posthole, sand-filled pits,
-portion of complex sipapu, and paho marks.
-
-![20190724\_132034](./media/image14.jpeg){width="5.627906824146982in"
-height="3.163206474190726in"}
-
-[]{#_Ref27637103 .anchor}Figure . Photo showing extent of burned
-bulrush/cattail open-twined mat on floor of Structure 1024. Beams from
-roof fall are visible at the top of the image in the Excavation Unit
-profile face. The artifacts north of the mat are a mano and two sherds.
-
-![](./media/image15.jpeg){width="4.941860236220473in"
-height="3.706395450568679in"}
-
-[]{#_Ref27637326 .anchor}Figure . Detail of burned open-twined mat.
-Arrow points to location of one crosswise row of weft thread.
-
-![](./media/image16.jpeg){width="4.953488626421697in"
-height="3.715117016622922in"}
-
-[]{#_Ref27637502 .anchor}Figure . Lower end of mat, warp ends shown
-vertically, showing cut ends of flattened stems.
-
-[]{#_Ref27572115 .anchor}Table . List of Excavation Units in
-Architectural Block 100 of the Haynie site.
+Table . List of Excavation Units in Architectural Block 100 of the Haynie site.
 
   Area   Size (m)        Northing     Easting       Date Opened                            Date Closed   Reason Closed
   ------ --------------- ------------ ------------- -------------------------------------- ------------- --------------------------------------
@@ -1922,8 +1877,7 @@ Architectural Block 100 of the Haynie site.
   E      2-x-1           388          410           5/23/18                                In progress   
   F      Segment 8       6/3/2019     6/5/2019      Encountered propane pipe                             
 
-[]{#_Ref27660356 .anchor}Table . Descriptions and locations of Study
-Units used during the 2019 field season.
+Table . Descriptions and locations of Study Units used during the 2019 field season.
 
 +--------------+--------+------------+------------------------------+
 | SU           | Number | Areas Used | Description                  |
@@ -2118,9 +2072,7 @@ Units used during the 2019 field season.
 |              |        |            | charcoal flecks.             |
 +--------------+--------+------------+------------------------------+
 
-[]{#_Ref27575671 .anchor}Table . Radiocarbon dates obtained in 2019 from
-Architectural Block 100 of the Haynie site. All samples were charred
-maize cob fragments dated using the AMS technique.
+Table . Radiocarbon dates obtained in 2019 from Architectural Block 100 of the Haynie site. All samples were charred maize cob fragments dated using the AMS technique.
 
 +----------+----------+-----+----------+------+----------+----------+
 | Sample   | \[Conv   | PD  | SU       | STLV | Grid     | Context  |
@@ -2331,8 +2283,7 @@ maize cob fragments dated using the AMS technique.
 | ages.    |          |     |          |      |          |          |
 +----------+----------+-----+----------+------+----------+----------+
 
-[]{#_Ref27638054 .anchor}Table . List of public presentations involving
-the NCOP given by Crow Canyon staff or affiliated researchers.
+Table . List of public presentations involving the NCOP given by Crow Canyon staff or affiliated researchers.
 
 +----------------+----------------+----------------+----------------+
 | Name(s)        | Conference     | Place and Date | Title of       |
@@ -2728,7 +2679,7 @@ Glowacki, and Grant Coffey
 *Crucible of Pueblos: The Early Pueblo Period in the Northern
 Southwest*, edited by Richard H. Wilshusen, Gregson Schachner, and James
 R. Allison, pp. 14-24. Monography 71 Cotsen Institute of Archaeology
-Press, University of California, Los Angeles[]{#_Toc28268414 .anchor}A
+Press, University of California, Los Angeles.
 
 
 \backmatter

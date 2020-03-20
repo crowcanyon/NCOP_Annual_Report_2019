@@ -30,6 +30,31 @@ site: bookdown::bookdown_site
 description: "Excavations at the Haynie Site (5MT1905), in Montezuma County, southwestern Colorado."
 ---
 
+```{r setup, include=FALSE}
+rm(list=ls()) ### To clear namespace
+library(knitr)
+opts_chunk$set(fig.path = 'images/',
+               echo = FALSE, 
+               warning = FALSE, 
+               message = FALSE,
+               widgetframe_widgets_dir = 'widgets',
+               out.width = '80%')
+
+options(
+  htmltools.dir.version = FALSE, 
+  formatR.indent = 2,
+  width = 55, 
+  digits = 4, 
+  warnPartialMatchAttr = FALSE, 
+  warnPartialMatchDollar = FALSE
+)
+
+lapply(c('citr', 'formatR', 'svglite', 'widgetframe'), function(pkg) {
+  if (system.file(package = pkg) == '') install.packages(pkg, repos = "http://cran.us.r-project.org")
+})
+
+```
+
 # Preface
 
 <div style="text-align: center;">
